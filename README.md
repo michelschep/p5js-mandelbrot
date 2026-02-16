@@ -4,7 +4,7 @@ Een interactieve visualisatie van de Mandelbrot set gebouwd met p5.js.
 
 ## Live Demo
 
-🚀 [Bekijk de live demo](https://mjvkeulen.github.io/p5js-mandelbrot/)
+🚀 [Bekijk de live demo](https://michelschep.github.io/p5js-mandelbrot/)
 
 ## Over dit project
 
